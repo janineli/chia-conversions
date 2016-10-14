@@ -3,4 +3,5 @@ Conversion functions needed:
 - Dollars to Cenets
 - Gallons to LIters
 - Hours to Minutes
+- Feet to Inches
 
