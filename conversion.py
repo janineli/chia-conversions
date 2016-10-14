@@ -1,3 +1,3 @@
 def dollars2cents(dollars):
-    print("Hello!", dollars)
-
+    cents = dollars * 100
+    return cents
