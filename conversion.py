@@ -15,4 +15,7 @@ def feet2inches(feet):
 	inches = feet * 12
 	return inches
 
-Chia added something here
+#Chia added something here
+
+inches = feet2inches(10)
+print(inches)
