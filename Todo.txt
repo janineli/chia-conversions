@@ -5,3 +5,4 @@ Conversion functions needed:
 - Hours to Minutes
 - Feet to Inches
 - Degrees to Radians.
+- Years to days
