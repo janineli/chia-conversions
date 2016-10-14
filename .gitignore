@@ -1,2 +1,4 @@
 *.dat
+!a.dat
 results/
+log*
