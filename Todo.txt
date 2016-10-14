@@ -6,3 +6,5 @@ Conversion functions needed:
 - Feet to Inches
 - Degrees to Radians
 - Meters to Centimeters
+- Degrees to Radians.
+- Years to days

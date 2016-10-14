@@ -10,6 +10,7 @@ def hours2minutes(hours):
     minutes = hours * 60
     return minutes
 
+# comment
 def feet2inches(feet):
 	inches = feet * 12
 	return inches
