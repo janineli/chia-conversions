@@ -19,3 +19,6 @@ def feet2inches(feet):
 
 inches = feet2inches(10)
 print(inches)
+
+cents = dollars2cents(5)
+print('{} dollars are {} cents'.format(5, cents))
